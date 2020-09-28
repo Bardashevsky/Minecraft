@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="Minecraft/en.lproj/English.strings" datatype="plaintext" source-language="en" target-language="ru">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
+    </header>
+    <body>
+      <trans-unit id="language" xml:space="preserve">
+        <source>English</source>
+        <note>English.strings
+  Minecraft
+
+  Created by Oleksandr Bardashevskyi on 27.09.2020.</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Minecraft/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="ru">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>Minecraft</source>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Minecraft/en.lproj/Localizable.strings" source-language="en" target-language="ru" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
+    </header>
+    <body>
+      <trans-unit id="language" xml:space="preserve">
+        <source>English</source>
+        <target>English</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Minecraft/Loading/Base.lproj/Main.storyboard" source-language="en" target-language="ru" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.0.1" build-num="12A7300"/>
+    </header>
+    <body>
+      <trans-unit id="6ch-MW-aMV.text" xml:space="preserve">
+        <source>Loading</source>
+        <target>Loading</target>
+        <note>Class = "UILabel"; text = "Loading"; ObjectID = "6ch-MW-aMV";</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
