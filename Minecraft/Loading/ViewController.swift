@@ -37,6 +37,7 @@ class ViewController: UIViewController {
             UIView.animate(withDuration: 0.3, animations: {
                 self.timer.invalidate()
             }) { (bool) in
+                self.timer.invalidate()
                 let keyWindow = UIApplication.shared.windows.filter {$0.isKeyWindow}.first
                 keyWindow?.rootViewController = TabBarViewController()
             }
